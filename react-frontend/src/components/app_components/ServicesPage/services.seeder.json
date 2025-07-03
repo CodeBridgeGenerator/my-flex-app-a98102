@@ -1,0 +1,62 @@
+[
+    {
+        "serviceName": "Oil Change",
+        "description": "Standard oil change",
+        "price": 50,
+        "duration": 0.020833333333333332
+    },
+    {
+        "serviceName": "Tire Rotation",
+        "description": "Rotate all tires",
+        "price": 30,
+        "duration": 0.03125
+    },
+    {
+        "serviceName": "Brake Inspection",
+        "description": "Inspect and replace brakes if needed",
+        "price": 80,
+        "duration": 0.041666666666666664
+    },
+    {
+        "serviceName": "Battery Replacement",
+        "description": "Replace car battery",
+        "price": 100,
+        "duration": 0.03125
+    },
+    {
+        "serviceName": "Engine Check",
+        "description": "Full engine diagnostic",
+        "price": 150,
+        "duration": 0.08333333333333333
+    },
+    {
+        "serviceName": "Transmission Service",
+        "description": "Inspect and service transmission",
+        "price": 200,
+        "duration": 0.10416666666666667
+    },
+    {
+        "serviceName": "Full Service",
+        "description": "Comprehensive vehicle service",
+        "price": 300,
+        "duration": 0.125
+    },
+    {
+        "serviceName": "AC Service",
+        "description": "Check and recharge AC system",
+        "price": 120,
+        "duration": 0.0625
+    },
+    {
+        "serviceName": "Detailing",
+        "description": "Full vehicle detailing service",
+        "price": 250,
+        "duration": 0.16666666666666666
+    },
+    {
+        "serviceName": "Alignment",
+        "description": "Wheel alignment service",
+        "price": 75,
+        "duration": 0.041666666666666664
+    }
+]

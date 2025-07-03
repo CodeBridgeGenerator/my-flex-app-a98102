@@ -1,0 +1,72 @@
+[
+    {
+        "invoiceId": 1,
+        "serviceId": 1,
+        "vehicleId": 1,
+        "technicianId": 1,
+        "serviceDate": 44581
+    },
+    {
+        "invoiceId": 2,
+        "serviceId": 3,
+        "vehicleId": 2,
+        "technicianId": 2,
+        "serviceDate": 44607
+    },
+    {
+        "invoiceId": 3,
+        "serviceId": 2,
+        "vehicleId": 3,
+        "technicianId": 3,
+        "serviceDate": 44638
+    },
+    {
+        "invoiceId": 4,
+        "serviceId": 7,
+        "vehicleId": 4,
+        "technicianId": 4,
+        "serviceDate": 44676
+    },
+    {
+        "invoiceId": 5,
+        "serviceId": 1,
+        "vehicleId": 5,
+        "technicianId": 5,
+        "serviceDate": 44711
+    },
+    {
+        "invoiceId": 6,
+        "serviceId": 4,
+        "vehicleId": 6,
+        "technicianId": 6,
+        "serviceDate": 44722
+    },
+    {
+        "invoiceId": 7,
+        "serviceId": 2,
+        "vehicleId": 7,
+        "technicianId": 7,
+        "serviceDate": 44747
+    },
+    {
+        "invoiceId": 8,
+        "serviceId": 5,
+        "vehicleId": 8,
+        "technicianId": 8,
+        "serviceDate": 44785
+    },
+    {
+        "invoiceId": 9,
+        "serviceId": 6,
+        "vehicleId": 9,
+        "technicianId": 9,
+        "serviceDate": 44824
+    },
+    {
+        "invoiceId": 10,
+        "serviceId": 1,
+        "vehicleId": 10,
+        "technicianId": 10,
+        "serviceDate": 44859
+    }
+]

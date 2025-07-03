@@ -1,0 +1,72 @@
+[
+    {
+        "partName": "Oil Filter",
+        "description": "Standard oil filter",
+        "quantityInStock": 50,
+        "price": 15,
+        "supplierId": 1
+    },
+    {
+        "partName": "Brake Pad",
+        "description": "High-quality brake pad set",
+        "quantityInStock": 30,
+        "price": 75,
+        "supplierId": 2
+    },
+    {
+        "partName": "Battery",
+        "description": "Car battery, 12V",
+        "quantityInStock": 20,
+        "price": 120,
+        "supplierId": 3
+    },
+    {
+        "partName": "Air Filter",
+        "description": "Engine air filter",
+        "quantityInStock": 40,
+        "price": 20,
+        "supplierId": 1
+    },
+    {
+        "partName": "Spark Plug",
+        "description": "High-performance spark plug",
+        "quantityInStock": 100,
+        "price": 10,
+        "supplierId": 4
+    },
+    {
+        "partName": "Windshield Wiper",
+        "description": "Wiper blade, 24-inch",
+        "quantityInStock": 25,
+        "price": 15,
+        "supplierId": 5
+    },
+    {
+        "partName": "Tire",
+        "description": "All-season tire, 16-inch",
+        "quantityInStock": 10,
+        "price": 100,
+        "supplierId": 6
+    },
+    {
+        "partName": "Brake Fluid",
+        "description": "DOT 4 brake fluid",
+        "quantityInStock": 60,
+        "price": 8,
+        "supplierId": 2
+    },
+    {
+        "partName": "Transmission Fluid",
+        "description": "Synthetic transmission fluid",
+        "quantityInStock": 30,
+        "price": 25,
+        "supplierId": 3
+    },
+    {
+        "partName": "Coolant",
+        "description": "Engine coolant, 1 gallon",
+        "quantityInStock": 35,
+        "price": 18,
+        "supplierId": 4
+    }
+]
